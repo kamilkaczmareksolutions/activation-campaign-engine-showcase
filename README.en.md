@@ -1,3 +1,5 @@
+<p align="center"><a href="README.md">Polski</a> | <b>English</b></p>
+
 <p align="center"><img src="assets/hero.png" alt="Activation Campaign Engine" width="700"/></p>
 <h1 align="center">Activation Campaign Engine</h1>
 <h3 align="center">Activates a cold list with an email and SMS sequence, tracks clicks in CRM, and alerts the team on every new meeting booking</h3>
