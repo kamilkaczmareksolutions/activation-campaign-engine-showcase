@@ -1,6 +1,9 @@
 <p align="center"><a href="README.md">Polski</a> | <b>English</b></p>
 
-<p align="center"><img src="assets/hero.png" alt="Activation Campaign Engine" width="700"/></p>
+https://github.com/user-attachments/assets/be97f56e-8823-4ccf-a08e-b9c318a64355
+
+<!-- Previous hero (backup, static): assets/hero.png -->
+
 <h1 align="center">Activation Campaign Engine</h1>
 <h3 align="center">Activates a cold list with an email and SMS sequence, tracks clicks in CRM, and alerts the team on every new meeting booking</h3>
 

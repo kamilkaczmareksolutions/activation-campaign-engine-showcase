@@ -1,6 +1,9 @@
 <p align="center"><b>Polski</b> | <a href="README.en.md">English</a></p>
 
-<p align="center"><img src="assets/hero.png" alt="Silnik Kampanii Aktywacyjnych" width="700"/></p>
+https://github.com/user-attachments/assets/be97f56e-8823-4ccf-a08e-b9c318a64355
+
+<!-- Poprzednie hero (backup, statyczne): assets/hero.png -->
+
 <h1 align="center">Silnik Kampanii Aktywacyjnych</h1>
 <h3 align="center">Aktywuje zimną listę sekwencją maili i SMS-ów, mierzy kliknięcia w CRM i powiadamia zespół o każdym zapisie na spotkanie</h3>
 
